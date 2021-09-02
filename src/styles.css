@@ -11,6 +11,7 @@
 
 .btn-blue:hover{
     @apply bg-blue-400;
+<<<<<<< HEAD
 }
 
 .one comment 
@@ -31,3 +32,6 @@ threecomment
 
  non committed data
  ..............
+=======
+}
+>>>>>>> parent of 1591bb0 (first comment)
